@@ -102,8 +102,14 @@ int main(void)
   /* Infinite loop */
   /* USER CODE BEGIN WHILE */
 
-  /*compartir en GIT
 
+
+  /*
+ nnn
+  TIMER 2 --> Encoder Cuadratura0:
+  Ecoder mode 1
+
+  TIMER 4--> PWM
   L298,
   Giro a derechas con PWM
   IN1 --> SEñal PWM
